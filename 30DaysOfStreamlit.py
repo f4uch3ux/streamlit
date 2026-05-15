@@ -13,6 +13,7 @@ st.title("Intro à Streamlit")
 st.markdown("[30 Days of Streamlit](https://30days.streamlit.app/)")
 
 st.write("\n")
+st.write("TEST")
 
 st.divider()
 st.markdown("[Code source](https://github.com/f4uch3ux/streamlit/blob/main/30DaysOfStreamlit.py)")
