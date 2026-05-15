@@ -11,7 +11,7 @@ st.set_page_config(
 
 st.title("Intro à Streamlit")
 st.markdown("[30 Days of Streamlit](https://30days.streamlit.app/)")
-np
+
 st.write("\n")
 
 st.divider()
